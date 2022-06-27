@@ -6,7 +6,7 @@
 
 #include "frame_matching.h"
 
-const std::string PATH_TO_VIDEO("../data/sample_mpg.avi");
+const std::string PATH_TO_VIDEO("../sample_mpg.avi");
 
 enum Algorithm {
     SURF = 1,
